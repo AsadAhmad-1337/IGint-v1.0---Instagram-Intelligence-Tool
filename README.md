@@ -4,7 +4,6 @@ IGint is a comprehensive OSINT (Open Source Intelligence) tool designed to gathe
 <img width="1197" height="976" alt="IGint" src="https://github.com/user-attachments/assets/d20b32c9-46cb-4511-a8aa-e0fffc10b283" />
 
 
-
 # 💻 System Requirements
 
 # Operating Systems
