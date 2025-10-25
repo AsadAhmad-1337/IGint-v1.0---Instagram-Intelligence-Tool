@@ -1,6 +1,21 @@
 # 🅾 IGint-v1.0---Instagram-Intelligence-Tool
 IGint is a comprehensive OSINT (Open Source Intelligence) tool designed to gather detailed information from Instagram profiles through both automated login sessions and public data scraping.
 
+
+# 💻 System Requirements
+
+# Operating Systems
+
+Windows 7/10/11
+
+# Memory & Storage
+
+RAM: Minimum 2GB (4GB recommended)
+
+Storage: 100MB free space
+
+Internet Connection: Required for API calls and image loading
+
 # 🔧 Key Features
 
 # 📝 Session Management
@@ -53,6 +68,8 @@ Multi-threading: Non-blocking GUI during data fetching
 Clipboard Integration: Easy copy-paste functionality
 
 Right-click Menus: Context menus for text operations
+
+
 
 Image Handling: Profile picture loading and display
 
