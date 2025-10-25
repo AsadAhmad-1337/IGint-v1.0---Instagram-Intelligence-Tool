@@ -1,0 +1,58 @@
+# 🅾 IGint-v1.0---Instagram-Intelligence-Tool
+IGint is a comprehensive OSINT (Open Source Intelligence) tool designed to gather detailed information from Instagram profiles through both automated login sessions and public data scraping.
+
+# 🔧 Key Features
+
+# 📝 Session Management
+
+Automated Login System: Generates session IDs by logging into Instagram
+
+Session Persistence: Uses session cookies for authenticated requests
+
+Secure Handling: Manages login credentials and session tokens
+
+# 🧠 Intelligence Gathering
+Single User Lookup: Detailed information extraction for individual accounts
+
+Bulk User Processing: Mass data collection from username lists
+
+# 🛡️ Advanced Data Collection
+
+Profile information (username, ID, bio, verification status)
+
+Follower/Following counts and post statistics
+
+Business account detection
+
+Contact information (obfuscated emails and phone numbers)
+
+Profile pictures with download capability
+
+
+# 🎨 User Interface and Capabilities
+
+Tabbed Interface: Organized into Session, Lookup, and Results tabs
+
+Rate Limit Handling: Manages Instagram's API limitations
+
+Error Recovery: Robust error handling for failed requests
+
+
+# 📊 Export Capabilities
+
+Multiple Formats: Text, PDF, and Word document exports
+
+Structured Reports: Professionally formatted output
+
+Bulk Data Handling: Efficient processing of large user lists
+
+# 🔒 Technical Features
+
+Multi-threading: Non-blocking GUI during data fetching
+
+Clipboard Integration: Easy copy-paste functionality
+
+Right-click Menus: Context menus for text operations
+
+Image Handling: Profile picture loading and display
+
