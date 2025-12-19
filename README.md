@@ -31,7 +31,7 @@ Secure Handling: Manages login credentials and session tokens
 # 🧠 Intelligence Gathering
 Single User Lookup: Detailed information extraction for individual accounts
 
-Bulk User Processing: Mass data collection from username lists
+Bulk User Processing: Mass data collection from username list
 
 # 🛡️ Advanced Data Collection
 
