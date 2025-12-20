@@ -1,7 +1,7 @@
 # 🅾 IGint-v1.0  Instagram-Intelligence-Tool
 IGint is a comprehensive OSINT (Open Source Intelligence) tool designed to gather detailed information from Instagram profiles through both automated login sessions and public data scraping.
 
-
+![Alt text](https://github.com/AsadAhmad-1337/IGint-v1.0---Instagram-Intelligence-Tool/blob/6c1a5cd89106620fe218b633eb995c8df591bb73/IGINT.PNG) 
 
 # 💻 System Requirements
 
