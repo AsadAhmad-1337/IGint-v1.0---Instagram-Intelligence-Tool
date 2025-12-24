@@ -5,7 +5,7 @@ IGint is a comprehensive OSINT (Open Source Intelligence) tool designed to gathe
 
 # 💻 System Requirements
 
-# Operating Systems
+# Operating System
 
 Windows 7/10/11
 
